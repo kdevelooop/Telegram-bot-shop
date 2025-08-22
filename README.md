@@ -4,7 +4,7 @@
 
 Установите зависимости:
 ```
-pip install aiogram
+pip install -r requirements.txt
 ```
 
 ## Настройка
